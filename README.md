@@ -26,5 +26,10 @@ Flutter doctor looks at your flutter installation and makes sure your flutter in
 
 ## Chapter 3: Introduction to Flutter
 We start in a project setup that allows us to use Dart.
+<br> Creating a flutter project via terminal
+
+  <pre>
+  flutter create learningdata</pre>
+
 
 
