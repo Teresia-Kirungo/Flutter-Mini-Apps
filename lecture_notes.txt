@@ -36,3 +36,5 @@ Keywords, words reserved to be used by a specific program. Keywords are predefin
 Data Types specific names assigned to a adata that is bound to be of a specific type.
 Dart data types -> https://dart-tutorial.com/introduction-and-basics/datatypes-in-dart/
 Const - values who's values cannot be changed, an example is my name Terry remains Terry through my entire life unless a long series of steps to change it.
+
+In dart each line ends with a semicolon, which indicates the end of a line.

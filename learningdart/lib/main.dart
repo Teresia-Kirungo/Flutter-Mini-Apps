@@ -1,5 +1,11 @@
 import 'package:flutter/material.dart';
 
+// we have a constant variable called age and we are initializing it to a value of 27. age is a constant variable that doesn't change
+const age = 27;
+
+// twiceAge is also a const, which is a value specified during compile time whose value cannot change.
+const twiceAge = age * 2;
+
 void main() {
   runApp(const MyApp());
 }
