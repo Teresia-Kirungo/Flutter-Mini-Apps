@@ -44,4 +44,7 @@ A variable can change; it's value that is
 Functions: This is a body of code, a series of code logically grouped. It has a return value void, it has a name main followed by a set of parentheses.
 
 Saving code in flutter triggers, Hot reload, looks for the changes you made in a code hieracchy and executes ONLY the changes made. 
-Void is a keyword telling dart this is a function that doesn't return anything. it is also best practice to include the type of data the function will return when called e.g string main is expected to return a string value when the main function is called.
+Void is a keyword telling dart this is a function that doesn't return anything. it is also best practice to include the type of data the function will return when called e.g string main is expected to return a string value when the main function is called. Functions best practice include the data type expected when writing the function, if it doesn't return anything then it is a void function
+Data types link -> https://dart-tutorial.com/introduction-and-basics/datatypes-in-dart/
+
+CHAPTER 4: DART CONTROL STATEMENTS AND COLLECTIONS
