@@ -42,3 +42,5 @@ In dart each line ends with a semicolon, which indicates the end of a line.
 A variable can change; it's value that is 
 
 Functions: This is a body of code, a series of code logically grouped. It has a return value void, it has a name main followed by a set of parentheses.
+
+Saving code in flutter triggers, Hot reload, looks for the changes you made in a code hieracchy and executes ONLY the changes made. 
