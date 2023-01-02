@@ -7,6 +7,7 @@ const age = 27;
 const twiceAge = age * 2;
 
 void main() {
+  var name = 'Terry';
   runApp(const MyApp());
 }
 
