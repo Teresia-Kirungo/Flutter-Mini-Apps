@@ -39,7 +39,8 @@ Const - values who's values cannot be changed, an example is my name Terry remai
 
 In dart each line ends with a semicolon, which indicates the end of a line.
 
-A variable can change; it's value that is 
+A variable can change; it's value that is
+final variable is a variable who's value cannot be changed after it has been assigned.
 
 Functions: This is a body of code, a series of code logically grouped. It has a return value void, it has a name main followed by a set of parentheses.
 
@@ -48,3 +49,5 @@ Void is a keyword telling dart this is a function that doesn't return anything. 
 Data types link -> https://dart-tutorial.com/introduction-and-basics/datatypes-in-dart/
 
 CHAPTER 4: DART CONTROL STATEMENTS AND COLLECTIONS
+If & Else
+An if statement helps you to check a condition to be of a certain value, true or false.
