@@ -7,7 +7,10 @@ void test(){
   if (name == 'Foo') {
     print('Yes this is Foo');
   }
+  else if (name != 'Bar') {
+    print('No this is not Bar!');
+  }
   else {
-    print('No this is not Foo!');
+    print('I don\'t\ know what name that is');
   }
 }
