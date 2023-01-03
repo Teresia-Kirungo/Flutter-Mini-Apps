@@ -51,3 +51,9 @@ Data types link -> https://dart-tutorial.com/introduction-and-basics/datatypes-i
 CHAPTER 4: DART CONTROL STATEMENTS AND COLLECTIONS
 If & Else
 An if statement helps you to check a condition to be of a certain value, true or false.
+In dart you can mix strings with numbers
+
+Operators: Simple operators such as + - * and /
+
+Lists in Dart
+-> Lists a series of things similar to each other and placed together and can be numbered
